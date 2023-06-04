@@ -1,0 +1,156 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.dsp {
+    display: inline-block;
+    margin: 0;
+}
+
+.color-div {
+    width: 50px;
+    height: 50px;
+    background-color: #F6F1F1;
+    transition: background-color 1s ease-in;
+  }
+
+.color-divOne {
+    width: 50px;
+    height: 50px;
+    background-color: #BE5A83;
+    transition: background-color 1s ease-in;
+}
+
+.color-divTwo {
+    width: 50px;
+    height: 50px;
+    background-color: #643843;
+    transition: background-color 1s ease-in;
+}
+
+.color-divThree {
+    width: 50px;
+    height: 50px;
+    background-color: #4C4C6D;
+    transition: background-color 1s ease-in;
+}
+
+.color-divFour {
+    width: 50px;
+    height: 50px;
+    background-color: #537188;
+    transition: background-color 1s ease-in;
+}
+
+.color-divFive {
+    width: 50px;
+    height: 50px;
+    background-color: #0C134F;
+    transition: background-color 1s ease-in;
+}
+
+.color-divSix {
+    width: 50px;
+    height: 50px;
+    background-color: #FFF7D4;
+    transition: background-color 1s ease-in;
+}
+
+.color-divSeven {
+    width: 50px;
+    height: 50px;
+    background-color: #4F4557;
+    transition: background-color 1s ease-in;
+}
+
+.color-divEight {
+    width: 50px;
+    height: 50px;
+    background-color: #FFA559;
+    transition: background-color 1s ease-in;
+}
+
+.color-divNine {
+    width: 50px;
+    height: 50px;
+    background-color: #E3CCAE;
+    transition: background-color 1s ease-in;
+}
+
+.color-divTen {
+    width: 50px;
+    height: 50px;
+    background-color: #F6F1F1;
+    transition: background-color 1s ease-in;
+}
+
+.color-divEleven {
+    width: 50px;
+    height: 50px;
+    background-color: #413543;
+    transition: background-color 1s ease-in;
+}
+
+.color-divTwelve {
+    width: 50px;
+    height: 50px;
+    background-color: #0E8388;
+    transition: background-color 1s ease-in;
+}
+
+.color-divThirteen {
+    width: 50px;
+    height: 50px;
+    background-color: #191825;
+    transition: background-color 1s ease-in;
+}
+
+.color-divFourteen {
+    width: 50px;
+    height: 50px;
+    background-color: #E96479;
+    transition: background-color 1s ease-in;
+}
+
+.color-divFifteen {
+    width: 50px;
+    height: 50px;
+    background-color: #443C68;
+    transition: background-color 1s ease-in;
+}
+
+.color-divSixteen {
+    width: 50px;
+    height: 50px;
+    background-color: #FF0303;
+    transition: background-color 1s ease-in;
+}
+
+.color-divSeventeen {
+    width: 50px;
+    height: 50px;
+    background-color: #4D455D;
+    transition: background-color 1s ease-in;
+}
+
+.color-Eighteen {
+    width: 50px;
+    height: 50px;
+    background-color: #443C68;
+    transition: background-color 1s ease-in;
+}
+
+.color-divNineteen {
+    width: 50px;
+    height: 50px;
+    background-color: #C0EEF2;
+    transition: background-color 1s ease-in;
+}
+
+.color-divTwenty {
+    width: 50px;
+    height: 50px;
+    background-color: #332C39;
+    transition: background-color 1s ease-in;
+}
